@@ -1,6 +1,6 @@
 package s11_s20.s12_forLoop;
 
-public class ForLoop {
+public class C42_ForLoop {
     public static void main(String[] args) {
 
 
