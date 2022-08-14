@@ -1,4 +1,6 @@
-public class C70_CarRunner {
+package s01_postIncrement;
+
+public class C71_CarRunner {
 
     public static void main(String[] args) {
 

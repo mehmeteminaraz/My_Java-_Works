@@ -1,3 +1,5 @@
+package s01_postIncrement;
+
 public class C72_Constructor01 {
 
         int count;
