@@ -1,6 +1,6 @@
-package s01_postIncrement;
+package constructor;
 
-public class C71_CarRunner {
+public class CarRunner {
 
     public static void main(String[] args) {
 

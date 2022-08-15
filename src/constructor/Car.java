@@ -1,21 +1,21 @@
-package s01_postIncrement;
+package constructor;
 
-public class C69_Car {
+public class Car {
 
 
-    public C69_Car(){
+    public Car(){
         System.out.println("parametresiz cons");
     }
 
-    public C69_Car(String renk){
+    public Car(String renk){
         System.out.println(renk + " araba uretildi");
     }
 
-    public C69_Car(int yil){
+    public Car(int yil){
         System.out.println(yil + " model araba uretildi");
     }
 
-    public C69_Car(int yil, String renk){
+    public Car(int yil, String renk){
         System.out.println(yil + " model "+ renk + " renginde bir araba uretildi");
     }
 }
